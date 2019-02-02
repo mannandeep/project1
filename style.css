@@ -1,0 +1,131 @@
+.heading1{
+    padding-right: 79%;
+    padding-top: 1%;
+    margin-top: 9%;
+    margin-bottom: 3%;
+    font-size:25;
+    height: 50px;
+    text-align: center;
+    width: 50%;
+    
+}
+.navbar{
+    padding ;
+}
+.main{
+    height: px;
+    position: relative;
+   padding-top:90%;
+    bottom: 60px;
+   
+    
+    
+}
+.top{
+   float:left;
+    
+   
+    margin-top:%;
+    margin-bottom: 3%;
+    font-size:25;
+    text-align: right;
+    width:50%;
+    height: 50px;
+    
+    
+    
+    
+}
+
+.input-group{
+    
+    margin-bottom: 3%;
+    padding-top: 3%;
+    margin-top: 9%;
+    border: black;
+    
+    width: 30%;
+    margin-left: 800px;
+}
+
+.pic{
+    width:auto;
+    height: 75%;
+    display: block;
+    
+ 
+    
+}
+
+.card{
+    
+    margin-bottom: 9%;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) , 0 7px 5px 0 rgba(0, 0, 0, 0.1);
+    
+    
+}
+.vl{
+    border-left: 7px solid grey;
+    
+}
+
+.card-title{
+    margin-top: 5%;
+    margin-bottom: 15%;
+    font-size: 20;
+    border-top: 1px solid #ccc;
+    
+    
+}
+.overlay{
+    position: absolute;
+    top=0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #272932;
+}
+
+.card:hover .overlay{
+    opacity: 1;
+}
+.text{
+    color: azure;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+
+.btn{
+    background:0 ;
+    
+}
+
+.form-control{
+    padding: 20px;
+    font-size: 15px;
+
+    height:1px;
+    
+} 
+.btn{
+    box-sizing: border-box;
+}
+
+.input-group button:hover{ 
+ background: #ccc;
+
+
+}
+
+
